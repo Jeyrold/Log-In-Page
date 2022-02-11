@@ -78,10 +78,10 @@ background: white;
    left: 8%;
 }
   }
-@media screen and (max-width:412px) {
+@media screen and (max-width:419px) {
   .container{
-    top: 30%;
-   left: 14%;
+    top: 23%;
+   left: 13%;
 }
   }
 
